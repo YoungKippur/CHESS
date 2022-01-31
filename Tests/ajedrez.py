@@ -1,7 +1,7 @@
 from stockfish import Stockfish
 import time
 
-stockfish = Stockfish(path="C:\\Users\\danie\\OneDrive\\Desktop\\stockfish_14.1_win_x64_popcnt\\stockfish_14.1_win_x64_popcnt.exe", depth=18, parameters={"Threads": 2, "Minimum Thinking Time": 30})
+stockfish = Stockfish(path="C:\\Users\\(Stockfish)", depth=18, parameters={"Threads": 2, "Minimum Thinking Time": 30})
 LIST = []
 JUGADAS_INCORRECTAS = 0
 TERMINADO = False
