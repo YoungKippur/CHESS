@@ -9,6 +9,7 @@ to a chess engine (Stockfih) in order to calculate the best move.
  * Some others librarys
 
 ## Screenshots
+blob:https://web.whatsapp.com/42da36e6-5607-4746-b30c-9b6d6c241134
 
 ## Contributors
 [Young Kippur](https://github.com/YoungKippur) (Marcos Strauss)
